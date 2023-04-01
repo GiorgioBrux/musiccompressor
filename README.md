@@ -7,6 +7,11 @@ A tool to compress your music, without sacrificing quality.
 
 ![Explaination](https://i.imgur.com/FU0fp0F.png)
 
+<img src="https://i.imgur.com/V0o5iev.png" width="600">
+
+You can observe on the above graph the relationship between the number of compression steps and file size. <br>
+Thanks to this tool, each track will approach a size of zero!
+
 ### Usage
 Run `npm install`, and then `node ./index run help` to look at the help page.
 ```
