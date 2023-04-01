@@ -5,7 +5,7 @@
 
 A tool to compress your music, without sacrificing quality.
 
-![Explaination](https://i.imgur.com/J9idGMM.png)
+![Explaination](https://i.imgur.com/FU0fp0F.png)
 
 ### Usage
 Run `npm install`, and then `node ./index run help` to look at the help page.
