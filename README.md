@@ -21,4 +21,4 @@ Options:
 
 ### Notes
 I hope this revolutionary tool will help you to save precious space on disk. <br/>
-I highly reccomend converting your whole library, aiming for an high number of steps!
+I highly reccomend converting your whole library. The higher the number of steps you use, the better!
