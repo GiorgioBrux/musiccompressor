@@ -3,6 +3,7 @@
 ![Depfu](https://img.shields.io/depfu/dependencies/github/GiorgioBrux/musiccompressor)
 ![GitHub issues](https://img.shields.io/github/issues/giorgiobrux/musiccompressor)
 
+MH April Fool's Day 2023. <br/>
 A tool to compress your music, without sacrificing quality.
 
 ![Explaination](https://i.imgur.com/FU0fp0F.png)
